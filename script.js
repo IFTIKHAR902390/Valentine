@@ -1,6 +1,6 @@
 function showLove() {
   document.getElementById("loveMsg").innerHTML =
-    "Forever yours ❤️ Happy Valentine’s Day Remsha 💕";
+    "Forever yours ❤️ Happy Valentine’s Day Gulabo 💕";
 }
 
 // Floating Hearts
@@ -23,7 +23,7 @@ function startMusic() {
 
 function showLove() {
   document.getElementById("loveMsg").innerHTML =
-    "Forever yours ❤️ Happy Valentine’s Day Remsha 💕";
+    "Forever yours ❤️ Happy Valentine’s Day Gulabo 💕";
 }
 
 const letterText = `
@@ -71,3 +71,4 @@ setInterval(() => {
     document.getElementById("timer").innerHTML = "It’s Valentine’s Day ❤️";
   }
 }, 1000);
+
